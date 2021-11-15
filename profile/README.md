@@ -8,8 +8,7 @@
 ██╔══╝  ██║   ██║██╔══██╗██╔══╝  ╚════██║   ██║       ██╔══██╗██╔══██║██║     ██╔═██╗ ╚════██║
 ██║     ╚██████╔╝██║  ██║███████╗███████║   ██║       ██║  ██║██║  ██║╚██████╗██║  ██╗███████║
 ╚═╝      ╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝   ╚═╝       ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝
-                                                                                              
-                        
+
 ```
 
 ForestRacks provides the most reliable and affordable enterprise-grade server hosting with the promise to always put customers before profits!
