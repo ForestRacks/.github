@@ -14,3 +14,6 @@
 ForestRacks provides the most reliable and affordable enterprise-grade server hosting with the promise to always put customers before profits!
 
 Explore our repos bellow:
+
+
+[Ptero Installer](https://github.com/ForestRacks/PteroInstaller)
