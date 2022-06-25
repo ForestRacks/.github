@@ -16,5 +16,5 @@ ForestRacks provides the most reliable and affordable enterprise-grade server ho
 Explore our public repos bellow:
 
 
-[Pterodactyl Installer](https://github.com/ForestRacks/PteroInstaller)
-[ForestRacks Knowledgebase](https://github.com/ForestRacks/Knowledgebase)
+* [Pterodactyl Installer](https://github.com/ForestRacks/PteroInstaller)
+* [ForestRacks Knowledgebase](https://github.com/ForestRacks/Knowledgebase)
