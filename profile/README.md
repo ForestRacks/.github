@@ -11,10 +11,10 @@
 
 ## Hi there 👋
 
-ForestRacks provides the most reliable and affordable enterprise-grade server hosting with the promise to always put customers before profits!
+ForestRacks is a globally trusted enterprise-grade server hosting provider, offering unparalleled reliability and affordability while putting customer satisfaction at the forefront of all we do.
 
 Explore our public repos bellow:
 
 
 * [Pterodactyl Installer](https://github.com/ForestRacks/PteroInstaller)
-* [ForestRacks Knowledgebase](https://github.com/ForestRacks/Knowledgebase)
+* [ForestRacks Translations](https://github.com/ForestRacks/Translations)
